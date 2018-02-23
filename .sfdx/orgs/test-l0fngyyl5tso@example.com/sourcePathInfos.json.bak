@@ -1,0 +1,192 @@
+[
+    [
+        "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519360266719,
+            "changeTime": 1519360266719,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519360266719,
+            "changeTime": 1519360266719,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519361257634,
+            "changeTime": 1519361257634,
+            "contentHash": "0a0df1d54ec8b49b972a19a672bd2178bf609060"
+        }
+    ],
+    [
+        "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519360266720,
+            "changeTime": 1519360266720,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519360311214,
+            "changeTime": 1519360311214,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main\\default\\objects\\Account\\fields\\firstname__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main\\default\\objects\\Account\\fields\\firstname__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 419,
+            "modifiedTime": 1519361257618,
+            "changeTime": 1519361257618,
+            "contentHash": "ace6b49167b1d43db81cb14b57f4260639d3455d"
+        }
+    ],
+    [
+        "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9761,
+            "modifiedTime": 1519361257638,
+            "changeTime": 1519361257638,
+            "contentHash": "018952316986dad92908f945570c6654d7b730c6"
+        }
+    ],
+    [
+        "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9713,
+            "modifiedTime": 1519361257654,
+            "changeTime": 1519361257654,
+            "contentHash": "d9bb399e15dbc1cbc0a5c64fe8abeb5233749c39"
+        }
+    ],
+    [
+        "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9761,
+            "modifiedTime": 1519361257669,
+            "changeTime": 1519361257669,
+            "contentHash": "fdf7c27a7d8047780cd231d5a450c3f6c576606c"
+        }
+    ],
+    [
+        "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9713,
+            "modifiedTime": 1519361257682,
+            "changeTime": 1519361257682,
+            "contentHash": "f0459e43b2449e44abf57fd72baf0fcedc1ee63d"
+        }
+    ],
+    [
+        "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519361257618,
+            "changeTime": 1519361257618,
+            "contentHash": "4a638805c6904a799f7e2f6b7d537f29764d21f9"
+        }
+    ],
+    [
+        "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main\\default\\objects\\Account",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519361257615,
+            "changeTime": 1519361257615,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519361257615,
+            "changeTime": 1519361257615,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\vthirukond004\\Documents\\Backup\\Projects\\DX\\TRV\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1519361257681,
+            "changeTime": 1519361257681,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ]
+]
